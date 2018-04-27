@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntellectBit.Treeshrew.MyHomeService", "IntellectBit.Treeshrew.MyHomeService\IntellectBit.Treeshrew.MyHomeService.csproj", "{406BB773-17EA-4035-B9FA-7FC73F549F01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{406BB773-17EA-4035-B9FA-7FC73F549F01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{406BB773-17EA-4035-B9FA-7FC73F549F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{406BB773-17EA-4035-B9FA-7FC73F549F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{406BB773-17EA-4035-B9FA-7FC73F549F01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BE70226-249A-4CB4-833C-D8D018030486}
+	EndGlobalSection
+EndGlobal
