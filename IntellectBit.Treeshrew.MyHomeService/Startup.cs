@@ -14,7 +14,6 @@ namespace IntellectBit.Treeshrew.MyHomeService
 
         public void Configuration(IAppBuilder app)
         {
-            System.IO.File.WriteAllText(@"d:\saran\startup.txt", "Started");
             HttpConfiguration config = new HttpConfiguration();
             WebApiConfig.Register(config);
             app.UseWebApi(config);
