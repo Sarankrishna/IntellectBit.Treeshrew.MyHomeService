@@ -1,4 +1,5 @@
-﻿using IntellectBit.Treeshrew.MyHomeService.Model;
+﻿using IntellectBit.Treeshrew.MyHomeService.Auth;
+using IntellectBit.Treeshrew.MyHomeService.Model;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
 using System;
